@@ -1,0 +1,2 @@
+python bellman.py
+pause()
